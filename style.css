@@ -76,7 +76,7 @@ border-radius:4px;
     width:200px;
     margin-top:450px;
     background-color: white;
-    
+    height:80px;
 }
 
 .go-to-project{
@@ -84,4 +84,12 @@ border-radius:4px;
     padding-left:50px;
 background-color: rgb(192, 57, 57);
 color:white;
+border-radius:4px;
+margin-top:2px;
+
+}
+
+.full-h5{
+    color:rgb(207, 79, 79);
+    padding-left:4px;
 }
