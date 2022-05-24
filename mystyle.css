@@ -5,7 +5,7 @@
 
 }
  body{
-    background-color: rgb(184, 84, 84);
+    background-color: rgb(172, 84, 184);
 }
 
 header nav ul{
@@ -96,7 +96,7 @@ footer .footer-first{
  
 }
 
-.go-to-project {
+.go-to-project{
     border:1px solid;
     padding-left:50px;
 background-color: rgb(192, 57, 57);
@@ -131,7 +131,7 @@ margin-top:2px;
 }
 
 .full-h5-2{
-    color:rgb(207, 79, 79);
+    color:rgb(31, 95, 34);
     padding-left:4px;
 }
 
